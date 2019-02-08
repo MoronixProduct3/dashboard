@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MoronixProduct3/dashboard#readme",
   "dependencies": {
-    "puppeteer-core": "^1.12.2"
+    "puppeteer": "^1.12.2"
   }
 }
