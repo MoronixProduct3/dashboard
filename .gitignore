@@ -1,3 +1,7 @@
+# Application ignores
+*.png
+settings.json
+
 # Logs
 logs
 *.log
